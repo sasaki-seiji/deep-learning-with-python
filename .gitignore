@@ -3,3 +3,4 @@ deep-learning-with-python-notebooks-master/
 *.h5
 *.npz
 my_log_dir/
+*.png
